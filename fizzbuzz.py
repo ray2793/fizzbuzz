@@ -1,4 +1,4 @@
-
+#For any entered integer, prints "fizz" for multiples of 3, "buzz" for multiples of 5, and "fiz buzz" for multiples of 3 and 5
 n = input("Enter in a number: ")
 print 'Fizz buzz printing up to ',n
 for num in range(1,n+1):
